@@ -26,7 +26,7 @@ export default function Home() {
               target="_blank"
               rel="noopener noreferrer"
             >
-             on AWS Amplify Preview
+             on AWS Amplify
             </a>
           </div>
         </div>
